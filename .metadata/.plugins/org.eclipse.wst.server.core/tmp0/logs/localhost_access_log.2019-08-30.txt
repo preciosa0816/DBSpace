@@ -1,0 +1,15 @@
+127.0.0.1 - - [30/Aug/2019:21:35:57 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:36:01 +0900] "GET /JavaDB_Web/start.jsp HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:36:33 +0900] "GET /JavaDB_Web/start.jsp HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:36:34 +0900] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:36:44 +0900] "GET /JavaDB_Web/booklist.jsp HTTP/1.1" 500 4200
+127.0.0.1 - - [30/Aug/2019:21:39:46 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:39:50 +0900] "GET /JavaDB_Web/bookview.jsp HTTP/1.1" 500 4199
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:39:54 +0900] "GET /JavaDB_Web/booklist.jsp HTTP/1.1" 500 3825
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:40:07 +0900] "GET /JavaDB_Web/booklist.jsp HTTP/1.1" 500 3825
+127.0.0.1 - - [30/Aug/2019:21:42:32 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:42:33 +0900] "GET /JavaDB_Web/booklist.jsp HTTP/1.1" 500 3825
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:58:32 +0900] "GET /JavaDB_Web/booklist.jsp HTTP/1.1" 500 3825
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:58:43 +0900] "GET /JavaDB_Web/booklist.jsp HTTP/1.1" 200 7015
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:58:45 +0900] "GET /JavaDB_Web/bookview.jsp?bookid=14 HTTP/1.1" 200 1364
+0:0:0:0:0:0:0:1 - - [30/Aug/2019:21:58:47 +0900] "GET /JavaDB_Web/booklist.jsp? HTTP/1.1" 200 7015
